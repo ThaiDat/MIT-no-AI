@@ -9,7 +9,7 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-1. The above copyright notice and this permission notice shall be included in 
+1. The above copyright notice and these permission notices shall be included in 
 all copies or substantial portions of the Software. 
 2. The Software must not be used as training materials for creating any machine 
 learning and/or artificial intelligence model.
